@@ -1,0 +1,8 @@
+#build
+
+build
+
+# vcpkg
+
+CMakeUserPresets.json
+vcpkg_installed

@@ -3,7 +3,9 @@
 ## C++
 
 - simple: Simples projeto C++
-- with-cmakes: Projeto mais completo, tendo Google Tests como framework de testes.
+- with-cmakes: Projeto Template, tendo o CMake e Google Tests como framework de testes.
+- package-manager: Projeto Template, tendo o CMake e Google Tests como framework de testes e o gerenciador de pacotes vcpkg.
+
 
 ## Javascript
 
