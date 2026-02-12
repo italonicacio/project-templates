@@ -4,8 +4,6 @@ Este repositório fornece um template robusto para iniciar projetos em C++ utili
 
 O template conta com o vcpkg como gerenciador de pacotes e já inclui um exemplo de uso do Google Test. Além disso, apresenta uma separação entre o arquivo main e o core, possibilitando que as dependências do core sejam reutilizadas na criação do executável de testes.
 
-Este template utiliza o padrão de build sem cache (no-cache), ou seja, não reaproveita builds anteriores. Embora isso não seja ideal para projetos grandes, é facilmente modificável; basta alterar o `Makefile` conforme necessário.
-
 ## Dependências
 
 O gerenciamento de dependências é realizado via **vcpkg**, e o projeto já inclui integração completa com **Google Test** para testes unitários automatizados.
